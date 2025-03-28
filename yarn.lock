@@ -15604,9 +15604,9 @@ tapable@^2.1.1, tapable@^2.2.0, tapable@^2.2.1:
   integrity sha512-GNzQvQTOIP6RyTfE2Qxb8ZVlNmw0n88vp1szwWRimP02mnTsx3Wtn5qRdqY9w2XduFNUgvOwhNnQsjwCp+kqaQ==
 
 tar-fs@^1.8.1:
-  version "1.16.0"
-  resolved "https://registry.yarnpkg.com/tar-fs/-/tar-fs-1.16.0.tgz#e877a25acbcc51d8c790da1c57c9cf439817b896"
-  integrity sha512-I9rb6v7mjWLtOfCau9eH5L7sLJyU2BnxtEZRQ5Mt+eRKmf1F0ohXmT/Jc3fr52kDvjJ/HV5MH3soQfPL5bQ0Yg==
+  version "1.16.4"
+  resolved "https://registry.yarnpkg.com/tar-fs/-/tar-fs-1.16.4.tgz#d3f0e1edf164b821f086640b1f0596f004021dc8"
+  integrity sha512-u3XczWoYAIVXe5GOKK6+VeWaHjtc47W7hyuTo3+4cNakcCcuDmlkYiiHEsECwTkcI3h1VUgtwBQ54+RvY6cM4w==
   dependencies:
     chownr "^1.0.1"
     mkdirp "^0.5.1"
